@@ -22,7 +22,7 @@
     "async": "^0.9.2",
     "bitcore-lib": "^0.13.7",
     "body-parser": "^1.11.0",
-    "coveralls": "^2.11.2",
+    "coveralls": "^3.0.0",
     "email-validator": "^1.0.1",
     "express": "^4.10.0",
     "inherits": "^2.0.1",
